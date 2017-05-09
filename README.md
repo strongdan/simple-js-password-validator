@@ -1,0 +1,6 @@
+# Simple Javascript Password Validator for Codecademy
+##The rules for our password validator are:
+* Has at least one uppercase letter
+* Has at least one lowercase letter
+* Is at least 8 characters long
+* Has at least one special character
